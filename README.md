@@ -26,7 +26,7 @@ until it can give a final answer (the ReAct loop: Reason, Act, Observe).
 
 ## Architecture (schema)
 
-![Architecture](docs/architecture.png)
+![alt text](Architecture.png)
 
 ## Components
 | Part | Implementation |
@@ -50,5 +50,7 @@ until it can give a final answer (the ReAct loop: Reason, Act, Observe).
 5. `python agent.py`
 
 ## Example runs
-![Test 1](docs/test1.png)
-![Test 2](docs/test2.png)
+![alt text](test1.png)
+![alt text](test2.png)
+
+
